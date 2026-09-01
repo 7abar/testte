@@ -1,0 +1,17 @@
+{
+  "name": "Hubhood",
+  "short_name": "Hubhood",
+  "description": "Private liquidity infrastructure. CEX and DEX execution without accounts or KYC.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08090a",
+  "theme_color": "#08090a",
+  "icons": [
+    {
+      "src": "/assets/img/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
